@@ -1,2 +1,4 @@
-package Giris;public class Bisey {
+package Giris;
+
+public class Bisey {
 }
