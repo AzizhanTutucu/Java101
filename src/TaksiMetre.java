@@ -7,7 +7,7 @@ public class TaksiMetre {
         Scanner input= new Scanner(System.in);
         System.out.print("Km Bilgisi: ");
         km= input.nextDouble();
-        double tutar= (km*2.20) +10.0;
+        double tutar= (km*2.20) +acılısUcreti;
         boolean minTutar;
         minTutar = (tutar<=20)&(tutar>0);
         tutar = minTutar ? 20: tutar;
