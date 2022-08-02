@@ -48,7 +48,7 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DaireAlanCevre">
+  <component name="RunManager" selected="Application.VucudIndex">
     <configuration name="DaireAlanCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireAlanCevre" />
       <module name="Java101" />
@@ -70,19 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotOrtalaması" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotOrtalaması" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TaksiMetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaksiMetre" />
       <module name="Java101" />
@@ -90,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VucudIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VucudIndex" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VucudIndex" />
         <item itemvalue="Application.DaireAlanCevre" />
         <item itemvalue="Application.TaksiMetre" />
         <item itemvalue="Application.Hipotenüs" />
         <item itemvalue="Application.KdvTutar" />
-        <item itemvalue="Application.NotOrtalaması" />
       </list>
     </recent_temporary>
   </component>
