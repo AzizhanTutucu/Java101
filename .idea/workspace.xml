@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/ManavKasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HesapMakinesi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManavKasa">
+  <component name="RunManager" selected="Application.HesapMakinesi">
     <configuration name="DaireAlanCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireAlanCevre" />
       <module name="Java101" />
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hipotenüs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hipotenüs" />
+    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HesapMakinesi" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.ManavKasa" />
         <item itemvalue="Application.VucudIndex" />
         <item itemvalue="Application.DaireAlanCevre" />
         <item itemvalue="Application.TaksiMetre" />
-        <item itemvalue="Application.Hipotenüs" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659442965054</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Updated">
+      <created>1659443481293</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1659443481293</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
