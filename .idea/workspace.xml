@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/KücüktenBüyüge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BurcBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +47,16 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KücüktenBüyüge">
-    <configuration name="EtkinlikÖnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EtkinlikÖnerme" />
+  <component name="RunManager" selected="Application.BurcBulma">
+    <configuration name="BurcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BurcBulma" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HesapMakinesi" />
+    <configuration name="EtkinlikÖnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EtkinlikÖnerme" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BurcBulma" />
         <item itemvalue="Application.KücüktenBüyüge" />
         <item itemvalue="Application.EtkinlikÖnerme" />
         <item itemvalue="Application.SınıfGecme" />
         <item itemvalue="Application.KullanıcıGirisi" />
-        <item itemvalue="Application.HesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +340,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659609255095</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Updated">
+      <created>1659610209270</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1659610209270</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Updated">
+      <created>1659610303136</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1659610303136</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
