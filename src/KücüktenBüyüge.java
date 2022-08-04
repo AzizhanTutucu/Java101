@@ -34,6 +34,9 @@ public class KücüktenBüyüge {
                 }
 
                 }
+        else {
+            System.out.println("Sayilar arasinda esitlik var.");
+        }
 
         }
 }
