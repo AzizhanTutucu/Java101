@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/BasamakSayıToplamı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HarmonikSayilar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasamakSayıToplamı">
+  <component name="RunManager" selected="Application.HarmonikSayilar">
     <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Armstrong" />
       <module name="Java101" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Faktoriyel" />
+    <configuration name="HarmonikSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HarmonikSayilar" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HarmonikSayilar" />
         <item itemvalue="Application.BasamakSayıToplamı" />
         <item itemvalue="Application.Armstrong" />
         <item itemvalue="Application.ÜslüSayi" />
         <item itemvalue="Application.Combinassion" />
-        <item itemvalue="Application.Faktoriyel" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659788963730</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Updated">
+      <created>1659789354124</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1659789354124</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
