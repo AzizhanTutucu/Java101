@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/MükemmelSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AsalSayi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,14 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MükemmelSayi">
+  <component name="RunManager" selected="Application.AsalSayi">
+    <configuration name="AsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsalSayi" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bankamatik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bankamatik" />
       <module name="Java101" />
@@ -76,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YildizlarİleElmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YildizlarİleElmas" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsalSayi" />
         <item itemvalue="Application.MükemmelSayi" />
         <item itemvalue="Application.MinAndMax" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.Bankamatik" />
-        <item itemvalue="Application.YildizlarİleElmas" />
       </list>
     </recent_temporary>
   </component>
@@ -101,20 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Updated">
-      <created>1659363065105</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1659363065105</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Updated">
-      <created>1659363169764</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1659363169764</updated>
     </task>
     <task id="LOCAL-00009" summary="Updated">
       <created>1659363236820</created>
@@ -445,7 +431,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660048882581</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Updated">
+      <created>1660049348063</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1660049348063</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Updated">
+      <created>1660049368679</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1660049368679</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
