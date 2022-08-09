@@ -19,7 +19,7 @@ public class EbobEkok {
 
         }
         int i= smallN;
-        while (smallN>=1){
+        while (i>=1){
             if (n1%i==0 && n2%i==0){
                 ebob = i;
                 System.out.println("Ebob: "+ebob);
