@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/Bankamatik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EbobEkok.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +47,7 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bankamatik">
-    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Armstrong" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EbobEkok">
     <configuration name="Bankamatik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bankamatik" />
       <module name="Java101" />
@@ -64,6 +57,13 @@
     </configuration>
     <configuration name="BasamakSayıToplamı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasamakSayıToplamı" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EbobEkok" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.Bankamatik" />
         <item itemvalue="Application.YildizlarİleElmas" />
         <item itemvalue="Application.HarmonikSayilar" />
         <item itemvalue="Application.BasamakSayıToplamı" />
-        <item itemvalue="Application.Armstrong" />
       </list>
     </recent_temporary>
   </component>
@@ -101,13 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Updated">
-      <created>1659362803417</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1659362803417</updated>
     </task>
     <task id="LOCAL-00004" summary="Updated">
       <created>1659362924036</created>
@@ -445,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659958747184</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Updated">
+      <created>1660040365806</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1660040365807</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
