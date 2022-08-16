@@ -6,6 +6,8 @@ public class Courses {
     String code;
     String prefix;
     int note;
+    int sozluNote;
+
     Courses(String className,String code, String prefix){
         this.className= className;
         this.code=code;

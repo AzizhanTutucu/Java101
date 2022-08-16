@@ -14,7 +14,8 @@ public class Main {
         biyo.addTeacher(teacher3);
 
         Student student1 = new Student("Azizhan","1235","4B",tarih,fizik,biyo);
-        student1.addNote(100,500,75);
+        student1.addNote(100,80,75);
+        student1.addSozlu(50,50,72);
 
         student1.isPass();
 

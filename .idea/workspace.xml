@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
       <change afterPath="$PROJECT_DIR$/src/Metodlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ogrenciBilgiSistemi/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,13 +110,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Updated">
-      <created>1659363734902</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1659363734902</updated>
     </task>
     <task id="LOCAL-00018" summary="Updated">
       <created>1659363759009</created>
@@ -455,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660387780953</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Updated">
+      <created>1660678059516</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1660678059516</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
