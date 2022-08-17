@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/src/MaasHesaplayici/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaasHesaplayici/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Metodlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boksOyunu/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boksOyunu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boksOyunu/Match.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,20 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.boksOyunu.Main">
+  <component name="RunManager" selected="Application.MaasHesaplayici.Main">
+    <configuration name="MaasHesaplayici.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaasHesaplayici.Main" />
+      <module name="Java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MaasHesaplayici.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ogrenciBilgiSistemi.Main" />
       <module name="Java101" />
@@ -91,20 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Üs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Üs" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaasHesaplayici.Main" />
         <item itemvalue="Application.boksOyunu.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.NKadarDöngü" />
         <item itemvalue="Application.RecursiveAsalSayilar" />
-        <item itemvalue="Application.Üs" />
       </list>
     </recent_temporary>
   </component>
@@ -116,13 +121,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Updated">
-      <created>1659363801416</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1659363801416</updated>
     </task>
     <task id="LOCAL-00020" summary="Updated">
       <created>1659363867580</created>
@@ -460,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660681149702</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Updated">
+      <created>1660739494620</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1660739494620</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
