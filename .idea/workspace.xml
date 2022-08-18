@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
-      <change afterPath="$PROJECT_DIR$/src/MaasHesaplayici/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaasHesaplayici/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/HelperArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Diziler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HarmonikDizi.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Metodlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiDiziler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,26 +53,34 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaasHesaplayici.Main">
-    <configuration name="MaasHesaplayici.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaasHesaplayici.Main" />
+  <component name="RunManager" selected="Application.HarmonikDizi">
+    <configuration name="Diziler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diziler" />
       <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MaasHesaplayici.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEach" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarmonikDizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HarmonikDizi" />
+      <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ogrenciBilgiSistemi.Main" />
+      <option name="MAIN_CLASS_NAME" value="Array.Main" />
       <module name="Java101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ogrenciBilgiSistemi.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,40 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NKadarDöngü" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NKadarDöngü" />
+    <configuration name="MultiDiziler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiDiziler" />
       <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveAsalSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveAsalSayilar" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="boksOyunu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boksOyunu.Main" />
-      <module name="Java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boksOyunu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaasHesaplayici.Main" />
-        <item itemvalue="Application.boksOyunu.Main" />
+        <item itemvalue="Application.HarmonikDizi" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NKadarDöngü" />
-        <item itemvalue="Application.RecursiveAsalSayilar" />
+        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.MultiDiziler" />
+        <item itemvalue="Application.Diziler" />
       </list>
     </recent_temporary>
   </component>
@@ -121,13 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Updated">
-      <created>1659363867580</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1659363867580</updated>
     </task>
     <task id="LOCAL-00021" summary="Updated">
       <created>1659363930635</created>
@@ -465,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660739494620</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Updated">
+      <created>1660762093931</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1660762093932</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
