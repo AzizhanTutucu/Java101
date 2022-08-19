@@ -4,8 +4,8 @@
     <list default="true" id="79abfd1e-c165-47c6-a2d9-ad4077b013f3" name="Changes" comment="Updated">
       <change afterPath="$PROJECT_DIR$/src/Array/HelperArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiziMaxMin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Diziler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DizilerdeYildizİleHarf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Metodlar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiDiziler.java" afterDir="false" />
@@ -53,9 +53,16 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiziMaxMin">
+  <component name="RunManager" selected="Application.DizilerdeYildizİleHarf">
     <configuration name="DiziMaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiziMaxMin" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DizilerdeYildizİleHarf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DizilerdeYildizİleHarf" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,20 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDiziler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiDiziler" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DizilerdeYildizİleHarf" />
         <item itemvalue="Application.DiziMaxMin" />
         <item itemvalue="Application.HarmonikDizi" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.MultiDiziler" />
       </list>
     </recent_temporary>
   </component>
@@ -113,13 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Updated">
-      <created>1659363944337</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1659363944337</updated>
     </task>
     <task id="LOCAL-00023" summary="Updated">
       <created>1659365220750</created>
@@ -457,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660829801162</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Updated">
+      <created>1660846244445</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1660846244446</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
