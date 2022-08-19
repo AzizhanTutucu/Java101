@@ -9,7 +9,7 @@
       <change afterPath="$PROJECT_DIR$/src/Math/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Metodlar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiDiziler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SayıTahminOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromikKelimeler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,14 +54,7 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SayıTahminOyunu">
-    <configuration name="DizilerdeElemanFrekansi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DizilerdeElemanFrekansi" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PalindromikKelimeler">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.Main" />
       <module name="Java101" />
@@ -77,6 +70,13 @@
     </configuration>
     <configuration name="MatrisTranspoz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatrisTranspoz" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromikKelimeler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromikKelimeler" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromikKelimeler" />
         <item itemvalue="Application.SayıTahminOyunu" />
         <item itemvalue="Application.StringSınıfı.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MatrisTranspoz" />
-        <item itemvalue="Application.DizilerdeElemanFrekansi" />
       </list>
     </recent_temporary>
   </component>
@@ -120,13 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Updated">
-      <created>1659442668155</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1659442668155</updated>
     </task>
     <task id="LOCAL-00029" summary="Updated">
       <created>1659442965054</created>
@@ -464,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660939397793</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Updated">
+      <created>1660945971941</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1660945971942</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
