@@ -5,10 +5,10 @@
       <change afterPath="$PROJECT_DIR$/src/Array/HelperArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Diziler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DizilerdeYildizİleHarf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ForEach.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Metodlar.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/MultiDiziler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TekrarEdenCiftSayilar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="C:\Users\aziz_\IdeaProjects\Java101" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DizilerdeYildizİleHarf">
+  <component name="RunManager" selected="Application.TekrarEdenCiftSayilar">
     <configuration name="DiziMaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiziMaxMin" />
       <module name="Java101" />
@@ -63,13 +63,6 @@
     </configuration>
     <configuration name="DizilerdeYildizİleHarf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DizilerdeYildizİleHarf" />
-      <module name="Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForEach" />
       <module name="Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TekrarEdenCiftSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TekrarEdenCiftSayilar" />
+      <module name="Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TekrarEdenCiftSayilar" />
         <item itemvalue="Application.DizilerdeYildizİleHarf" />
         <item itemvalue="Application.DiziMaxMin" />
         <item itemvalue="Application.HarmonikDizi" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ForEach" />
       </list>
     </recent_temporary>
   </component>
@@ -113,13 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659187795475</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Updated">
-      <created>1659365220750</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1659365220750</updated>
     </task>
     <task id="LOCAL-00024" summary="Updated">
       <created>1659365523137</created>
@@ -457,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660846244446</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Updated">
+      <created>1660932042060</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1660932042060</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
